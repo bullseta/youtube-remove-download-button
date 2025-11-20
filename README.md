@@ -16,7 +16,7 @@ Designed to keep the interface clean for non‑Premium users, it continuously mo
 ## 📥 Installation
 1. Install the [Tampermonkey extension](https://www.tampermonkey.net/) in your browser.
 2. Click this link to install the script:  
-   [YouTube Remove Download Button](https://raw.githubusercontent.com/SEU_USUARIO/youtube-remove-download-button/main/youtube-remove-download.user.js)
+   [YouTube Remove Download Button](https://github.com/bullseta/youtube-remove-download-button/releases/download/v0.1.0/Remover.botoes.de.download.do.YouTube-3.0.user.js)
 3. Tampermonkey will open the installation screen. Confirm and enjoy!
 
 ---
